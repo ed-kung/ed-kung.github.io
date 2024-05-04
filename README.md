@@ -1,56 +1,33 @@
-# Chirpy Starter
+# Ed's Kung Personal Website
 
-[![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)][gem]&nbsp;
-[![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]
+This is the GitHub repository for Edward Kung's personal website, hosted on GitHub Pages and using the Chirpy theme for Jekyll.
 
-When installing the [**Chirpy**][chirpy] theme through [RubyGems.org][gem], Jekyll can only read files in the folders
-`_data`, `_layouts`, `_includes`, `_sass` and `assets`, as well as a small part of options of the `_config.yml` file
-from the theme's gem. If you have ever installed this theme gem, you can use the command
-`bundle info --path jekyll-theme-chirpy` to locate these files.
+## How this site was built
 
-The Jekyll team claims that this is to leave the ball in the user’s court, but this also results in users not being
-able to enjoy the out-of-the-box experience when using feature-rich themes.
+These instructions assume that you already have Ruby and Jekyll installed in your environment.
 
-To fully use all the features of **Chirpy**, you need to copy the other critical files from the theme's gem to your
-Jekyll site. The following is a list of targets:
+1. Start a new repo using the [Chirpy Starter Template](https://github.com/cotes2020/chirpy-starter).
 
-```shell
-.
-├── _config.yml
-├── _plugins
-├── _tabs
-└── index.html
-```
+2. Clone the repo to your local dev environment.
 
-To save you time, and also in case you lose some files while copying, we extract those files/configurations of the
-latest version of the **Chirpy** theme and the [CD][CD] workflow to here, so that you can start writing in minutes.
+3. Run `bundle` in the repo's root directory to install the necessary Ruby gems.
 
-## Prerequisites
+4. Copy your favicon files to `/assets/img/favicons/`
 
-Follow the instructions in the [Jekyll Docs](https://jekyllrb.com/docs/installation/) to complete the installation of
-the basic environment. [Git](https://git-scm.com/) also needs to be installed.
+5. In addition to obvious changes like site title and social media links, I made the following modifications to `_config.yml`:
 
-## Installation
+    ```YAML
+    timezone: America/Los_Angeles
+    pwa:
+      enabled: false
+    url: "https://ed-kung.github.io"
+    ```
+    
+    You need to change the `url` field for deployment on Github Pages to work.
 
-Sign in to GitHub and [**use this template**][use-template] to generate a brand new repository and name it
-`USERNAME.github.io`, where `USERNAME` represents your GitHub username.
+5. Sidebar pages are located in `/_tabs/`.  I deleted `categories.md` and `archives.md` because I didn't need them.  I added `research.md`, `teaching.md`, and `CV.md`.  The sidebar page icons are provided by [Font Awesome](https://fontawesome.com){:target="_blank"}. To select different icons, simply change the icon id in the `icon` field.
 
-Then clone it to your local machine and run:
+6. By default, Chirpy includes Twitter and Github social links. I didn't want Twitter but I wanted to add Linkedin.  To do that, I had to modify `_data/contact.yml`. The social icon for Linked in is `fab fa-linkedin`. The order in which items are listed in `_data/contact.yml` is the order they will show up in the sidebar. I went with email first, then GitHub, then Linkedin.
 
-```console
-$ bundle
-```
+7. Push the changes to GitHub. Then in Settings>>Pages, choose to deploy from GitHub Actions. 
 
-## Usage
-
-Please see the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy#documentation).
-
-## License
-
-This work is published under [MIT][mit] License.
-
-[gem]: https://rubygems.org/gems/jekyll-theme-chirpy
-[chirpy]: https://github.com/cotes2020/jekyll-theme-chirpy/
-[use-template]: https://github.com/cotes2020/chirpy-starter/generate
-[CD]: https://en.wikipedia.org/wiki/Continuous_deployment
-[mit]: https://github.com/cotes2020/chirpy-starter/blob/master/LICENSE
