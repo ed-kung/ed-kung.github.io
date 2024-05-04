@@ -31,3 +31,36 @@ These instructions assume that you already have Ruby and Jekyll installed in you
 
 7. Push the changes to GitHub. Then in Settings>>Pages, choose to deploy from GitHub Actions. 
 
+## Note on using project sites
+
+The above instructions should work if the repo name is `github-username.github.io`. That's the required repo name for your "main" Github Pages site. The website will be served at: `https://github-username.github.io`.
+
+If you instead named your repo something else, like `my-project`, then it is considered a "project site" and will be served at `https://github-username.github.io/my-project`.
+
+If you are using a project site, the previous instructions will lead to deployment errors, due to the way Chirpy handles relative links.
+
+If you are making a project site from the Chirpy template, you will need to modify the following line in `_config.yml`:
+
+```YAML
+baseurl: my-project
+```
+
+In addition, any relative links you use in your markdows need to be preceded by `my-project`. 
+
+For example, if you want to link to a pdf file hosted in `assets/pdf/my-pdf.pdf`, the markdown link should look like:
+
+```markdown
+[Link to pdf](/my-project/assets/pdf/my-pdf.pdf)
+```
+
+Not including `my-project` in the link will cause deployment errors.
+
+
+
+
+
+
+
+
+
+
