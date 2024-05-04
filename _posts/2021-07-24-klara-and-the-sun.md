@@ -2,7 +2,6 @@
 title: "Klara and the Sun: A Surrealist Dystopian Novel"
 tags: [book reviews]
 date: 2021-07-24 12:00:00
-excerpt: A book review for Klara and the Sun by Kazuo Ishiguro. May contain spoilers.
 ---
 
 A book review for *Klara and the Sun* by Kazuo Ishiguro.  *Warning: may contain spoilers*.

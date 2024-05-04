@@ -1,6 +1,6 @@
 ---
 title: Migrating to Jekyll
-date: 2024-05-04 
+date: 2024-05-04 01:38:00
 tags: [meta]
 ---
 
