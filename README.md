@@ -31,6 +31,7 @@ These instructions assume that you already have Ruby and Jekyll installed in you
 
 7. Push the changes to GitHub. Then in Settings>>Pages, choose to deploy from GitHub Actions. 
 
+
 ## Note on using project sites
 
 The above instructions should work if the repo name is `github-username.github.io`. That's the required repo name for your "main" Github Pages site. The website will be served at: `https://github-username.github.io`.
@@ -56,6 +57,12 @@ For example, if you want to link to a pdf file hosted in `assets/pdf/my-pdf.pdf`
 Not including `my-project` in the link will cause deployment errors.
 
 
+## Using a custom domain name
+
+- First, follow [these instructions](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/verifying-your-custom-domain-for-github-pages) to verify the custom domain. I wanted to verify `ekung.io`.
+
+    - If you're using Namecheap, as I am, the TXT record host should simply be `_github-pages-challenge-ed-kung` (without the `.ekung.io` at the end)
+    
 
 
 
