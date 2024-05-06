@@ -63,6 +63,26 @@ Not including `my-project` in the link will cause deployment errors.
 
     - If you're using Namecheap, as I am, the TXT record host should simply be `_github-pages-challenge-ed-kung` (without the `.ekung.io` at the end)
     
+- Then, follow [these instructions](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site) for setting up the custom domain.
+
+    - To set up both the apex domain and the www subdomain variant, the following records were added on Namecheap:
+    
+    | Type           | Host | Value                        |
+    | -------------- | ---- | ---------------------------- |
+    | ALIAS          |    @ | ed-kung.github.io            |
+    | CNAME          |  www | ed-kung.github.io            |
+    
+    - Then, a CNAME record needs to be added to the Github repo. This is a file named `CNAME` and it contains one line:
+    
+    ```
+    www.ekung.io
+    ```
+    
+    - Then, the custom domain for Github Pages is configured to `www.ekung.io`.
+    
+- Now, all requests to `www.ekung.io` or `ekung.io` are directed to the Github Pages site. Project sites automatically redirect as well, without having to specify a custom domain on the project sites.
+
+
 
 
 
