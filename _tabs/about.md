@@ -7,7 +7,7 @@ order: 1
 
 My name is Edward Kung.
 
-I am an economics professor in the David Nazarian College of Business and Economics at [CSUN](https://www.csun.edu){:target="_blank"}.
+I am an economics professor in the [David Nazarian College of Business and Economics at CSUN](https://nazarian.csun.edu/){:target="_blank"} and a Research Fellow at the [UCLA Ziman Center for Real Estate](https://www.anderson.ucla.edu/about/centers/ucla-ziman-center-for-real-estate){:target="_blank"}.
 
 I also work part-time as a data scientist and machine learning engineer at [Gusto](https://www.gusto.com){:target="_blank"}.
 
