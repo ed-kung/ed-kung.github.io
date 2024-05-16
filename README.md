@@ -43,7 +43,7 @@ If you are using a project site, the previous instructions will lead to deployme
 If you are making a project site from the Chirpy template, you will need to modify the following line in `_config.yml`:
 
 ```YAML
-baseurl: my-project
+baseurl: /my-project
 ```
 
 In addition, any relative links you use in your markdows need to be preceded by `my-project`. 
