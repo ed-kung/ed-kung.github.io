@@ -7,6 +7,15 @@ order: 2
 
 My academic research focuses on urban and real estate economics. Here you can find a list of my published and unpublished works, as well as active working papers.
 
+
+---
+
+# Working Papers
+
+[Development Approval Timelines, Approval Uncertainty, and New Housing Supply: Evidence from Los Angeles](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4872147){:target="_blank"}<br>
+*with Stuart Gabriel*<br>
+Submitted to **Journal of Urban Economics** (2024)
+
 ---
 
 # Published Papers
