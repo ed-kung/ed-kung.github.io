@@ -11,9 +11,9 @@ Here is a list of my current and past courses at CSUN.
 
 [ECON 160: Microeconomic Principles](https://github.com/ed-kung/CSUN-Econ-160){:target="_blank"}
 
-[ECON 310: Intermediate Microeconomic Theory](https://ed-kung.github.io/CSUN-Econ-310/){:target="_blank"}
+[ECON 310: Intermediate Microeconomic Theory](https://ekung.io/CSUN-Econ-310/){:target="_blank"}
 
-[ECON 433: Public Economics](https://github.com/ed-kung/CSUN-Econ-433/){:target="_blank"}
+[ECON 433: Public Economics](https://ekung.io/CSUN-Econ-433/){:target="_blank"}
 
 # Textbook
 
