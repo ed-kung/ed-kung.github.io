@@ -25,7 +25,7 @@ And who are these Strong Gods? Using Reno's terminology, the *Strong Gods* are a
 
 ### Exorcising the Strong Gods
 
-![karl popper](/assets/img/karlpopper.jpg){: .center }
+![karl popper](/assets/img/karlpopper.webp){: .center }
 *Karl Popper*
 
 According to Western thinkers of the time, it is loyalty to these Strong Gods that gave rise to the wars and conflicts of the 20th century. If we could somehow get rid of them, then we'd be able to build a more open, tolerant, and peaceful society.
@@ -36,7 +36,7 @@ The philosophy is best exemplified by Karl Popper's *The Open Society and its En
 
 ### A Real Consensus
 
-![hayek](/assets/img/hayek.jpg){: .normal }
+![hayek](/assets/img/hayek.jpg){: .center }
 *Friedrich Hayek*
 
 It wasn't just the precursors to the modern left who believed we had to get rid of the Strong Gods. Friedrich Hayek, a champion to modern conservatives, agreed with Popper and the two were good friends. The difference between them was not whether or not they agreed on the need to exorcise the Strong Gods, the difference was in how they believed society should be organized afterwards. Popper thought that society could be governed and steered by social scientists, dispassionate observers of empirical phenomena, whereas Hayek thought that society needed to be organized around the decentralized exchange of goods and services.
@@ -44,6 +44,9 @@ It wasn't just the precursors to the modern left who believed we had to get rid 
 But the point that Reno emphasizes is that the precursors to both the modern left and the modern right had roots in a philosophy that eschewed metaphysical truth and transcendant loyalty, and instead reduced all determination of value and meaning down to the individual. This explains why members of the Western establishment, whether conservative or liberal, tend to view religiosity, patriotism, and cultural pride as gauche--ugly relics of the past, unbefitting of a member of the open society.[^1]
 
 ### Return of the Strong Gods
+
+![trump](/assets/img/donald-trump.avif){: .center }
+*Donald Trump*
 
 The problem with the post war consensus, as Reno diagnoses, is that a society allergic to metaphysical truth and devoid of social solidarity eventually develops neuroses which cannot be sustained. These neuroses are visible in the inability of Western elites to define manhood and womanhood, the inability of Western elites to speak rationally about immigration policy, and the inability of Western elites to conceive of their responsibility as being first to their own citizens, and only secondarily to the rest of the world.
 
