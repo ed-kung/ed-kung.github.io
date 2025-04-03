@@ -25,7 +25,7 @@ And who are these Strong Gods? Using Reno's terminology, the *Strong Gods* are a
 
 ### Exorcising the Strong Gods
 
-![karl popper](/assets/img/karlpopper.jpg){: .normal }
+![karl popper](/assets/img/karlpopper.jpg){: .center }
 *Karl Popper*
 
 According to Western thinkers of the time, it is loyalty to these Strong Gods that gave rise to the wars and conflicts of the 20th century. If we could somehow get rid of them, then we'd be able to build a more open, tolerant, and peaceful society.
@@ -61,7 +61,7 @@ This is certainly a thought provoking book. It touches on high and lofty themes.
 
 Still, one book can only do so much, and I think Reno did an admirable job laying out his thesis. I gladly recommend this book to anyone interested in our cultural moment.
 
-
+---
 
 [^1]: One might wonder why religiosity is tolerated as long as it's not Christianity, why patriotism is tolerated as long as it's not a Western country, and why cultural pride is tolerated as long as it's not Western culture. Reno suggests that it's because the philosophical movement to exorcise the Strong Gods was essentially Eurocentric in nature. They had only in mind the Strong Gods of Europe... because they were European.
 
