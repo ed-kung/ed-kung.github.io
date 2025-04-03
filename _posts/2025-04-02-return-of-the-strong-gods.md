@@ -54,6 +54,10 @@ The social ills and symptoms which gave rise to Donald Trump and populist moveme
 
 ### Which Strong God?
 
+![american-gods](/assets/img/american-gods.jpg){: .center }
+*Scene from Neil Gaiman's American Gods*
+
+
 Reno, who is Roman Catholic, admits that there is danger in the Return of the Strong Gods. The passions and loyalties which excited the Nazis are not preferable to the metaphysical weakness of the post war consensus. Reno's goal is therefore not to advocate for a Return of the Strong Gods, but rather to point out that their return is inevitable, because a society built on weak metaphysical foundations will eventually crumble.
 
 The pressing question, then, is which of the Strong Gods will return. Will it be Strong Gods that lead us down dark, dangerous paths? Or will it be Strong Gods that call us to a higher and nobler purpose?
