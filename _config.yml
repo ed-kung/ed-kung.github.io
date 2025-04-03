@@ -16,7 +16,7 @@ timezone: America/Los_Angeles
 
 title: Ed Kung # the main title
 
-tagline: Economics professor at CSUN. FOSS contributor. edward.kung@gmail.com # it will display as the sub-title
+tagline: Economics professor, data scientist, and FOSS contributor. edward.kung@gmail.com # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Personal website of Dr. Edward Kung, economics professor at CSUN.
