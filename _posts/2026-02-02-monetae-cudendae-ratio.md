@@ -10,7 +10,7 @@ date: 2026-02-02 12:00:00
 
 I've been fascinated about Copernicus's *Monetae Cudendae Ratio* ever since I found out that he had written about monetary theory. I had read excerpts before, but had never seen a full English translation. Now, with the power of ChatGPT, I was able to read the text in English in its entirety.  One of the most interesting aspects of his work is how he used historical records to infer how exchange rates between different coins changed over time.
 
-Below is a copy of ChatGPT's full English translation using the Latin text found here: [https://www.intratext.com/IXT/LAT0488/](https://www.intratext.com/IXT/LAT0488/){:target="_blank"}.
+Below is a copy of ChatGPT's full English translation using the Latin text found here: [https://www.intratext.com/IXT/LAT0488/](https://www.intratext.com/IXT/LAT0488/){:target="_blank"}. All errors are ChatGPT's.
 
 ---
 
