@@ -12,6 +12,9 @@ My academic research focuses on urban and real estate economics. Here you can fi
 
 # Working Papers
 
+[Financial micro-incentives and internet discourse: Evidence from a Bitcoin based discussion platform](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6556022){:target="_blank"}<br>
+*with Keyan Kousha*<br>
+
 [Development Approval Times and New Housing Supply: Evidence from Los Angeles](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4872147){:target="_blank"}<br>
 *with Stuart Gabriel*<br>
 Revise and resubmit at **Journal of Urban Economics** (2025)
