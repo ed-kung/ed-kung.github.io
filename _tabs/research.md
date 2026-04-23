@@ -12,6 +12,9 @@ My academic research focuses on urban and real estate economics. Here you can fi
 
 # Working Papers
 
+[Bureaucratic Capacity and Urban Planning: Evidence from Los Angeles](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6636058){:target="_blank"}<br>
+*with Stuart Gabriel and Joe Histen*<br>
+
 [Financial micro-incentives and internet discourse: Evidence from a Bitcoin based discussion platform](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6556022){:target="_blank"}<br>
 *with Keyan Kousha*<br>
 
