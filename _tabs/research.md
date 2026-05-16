@@ -20,7 +20,7 @@ My academic research focuses on urban and real estate economics. Here you can fi
 
 [Development Approval Times and New Housing Supply: Evidence from Los Angeles](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4872147){:target="_blank"}<br>
 *with Stuart Gabriel*<br>
-Revise and resubmit at **Journal of Urban Economics** (2025)
+Forthcoming in **Journal of Urban Economics** (2026)
 
 ---
 
